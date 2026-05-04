@@ -1,0 +1,10 @@
+# Build output (the Mod Editor packs into a .hpk on Workshop upload)
+*.hpk
+
+# Compiled Lua (we ship plain .lua source)
+*.luac
+
+# Editor scratch
+*.bak
+*.tmp
+*~
